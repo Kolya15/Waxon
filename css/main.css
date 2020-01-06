@@ -945,6 +945,9 @@ footer {
   .news_foto-img {
     height: 220px !important;
   }
+  .news-foto .news-block .news-block_subtitle {
+    font-size: 13px;
+  }
   .partners {
     background-position: 0px -630px;
   }
@@ -956,6 +959,9 @@ footer {
   }
   .down h4 {
     margin-top: 20px;
+  }
+  .footer-list ul li a {
+    padding: 0 2px !important;
   }
 }
 @media screen and (max-width: 370px) {
